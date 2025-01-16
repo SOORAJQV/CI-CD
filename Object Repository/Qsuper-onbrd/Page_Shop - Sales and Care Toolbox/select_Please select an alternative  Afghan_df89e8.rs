@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Please select an alternative  Afghan_df89e8</name>
+   <tag></tag>
+   <elementGuidId>48636d74-5c06-4fca-9084-fa91f4446286</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#generatedFormSingleSelect_issuingCountry</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='generatedFormSingleSelect_issuingCountry']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Issuing country&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>32893942-2912-410b-afb2-db220564c071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-select sct-form-select ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>b6dc0a77-10a6-40b1-9c29-a6f45ba89aa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>generatedFormSingleSelect_issuingCountry</value>
+      <webElementGuid>0dcce7e0-870b-4292-97f5-160065c15f14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>4ba3473c-b95a-40c6-993c-8518ec6da2de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-name</name>
+      <type>Main</type>
+      <value>generatedFormSingleSelect_issu</value>
+      <webElementGuid>2f62d5e6-c7ac-4bd4-866a-c64afdfa1735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please select an alternative  Afghanista  Aland Islands  Albania  Algeria  American Samoa  Andorra  Angola  Anguilla  Antarctica  Antigua And Barbuda  Argentina  Armenia  Aruba  Australia  Austria  Azerbaijan  Bahamas  Bahrain  Bangladesh  Barbados  Belarus  Belgium  Belize  Benin  Bermuda  Bhutan  Bolivia  Bosnia And Herzegovina  Botswana  Bouvet Island  Brazil  British Indian Ocean Territory  Brunei Darussalam  Bulgaria  Burkina Faso  Burundi  Cambodia  Cameroon  Canada  Cape Verde  Cayman Islands  Central African Republic  Chad  Chile  China  Christmas Island  Cocos (Keeling) Islands  Colombia  Comoros  Congo  Congo, Democratic Republic  Cook Islands  Costa Rica  Cote D'Ivoire  Croatia  Cuba  Cyprus  Czech Republic  Denmark  Djibouti  Dominica  Dominican Republic  Ecuador  Egypt  El Salvador  Equatorial Guinea  Eritrea  Estonia  Ethiopia  Falkland Islands (Malvinas)  Faroe Islands  Fiji  Finland  France  French Guiana  French Polynesia  French Southern Territories  Gabon  Gambia  Georgia  Germany  Ghana  Gibraltar  Greece  Greenland  Grenada  Guadeloupe  Guam  Guatemala  Guernsey  Guinea  Guinea-Bissau  Guyana  Haiti  Heard Island &amp; Mcdonald Islands  Holy See (Vatican City State)  Honduras  Hong Kong  Hungary  Iceland  India  Indonesia  Iran, Islamic Republic Of  Iraq  Ireland  Isle Of Man  Israel  Italy  Jamaica  Japan  Jersey  Jordan  Kazakhstan  Kenya  Kiribati  Korea (the Republic of)  Korea (the Democratic People's Republic of)  Kuwait  Kyrgyzstan  Lao People's Democratic Republic  Latvia  Lebanon  Lesotho  Liberia  Libyan Arab Jamahiriya  Liechtenstein  Lithuania  Luxembourg  Macao  Macedonia  Madagascar  Malawi  Malaysia  Maldives  Mali  Malta  Marshall Islands  Martinique  Mauritania  Mauritius  Mayotte  Mexico  Micronesia, Federated States Of  Moldova  Monaco  Mongolia  Montenegro  Montserrat  Morocco  Mozambique  Myanmar  Namibia  Nauru  Nepal  Netherlands  Bonaire, Saint Eustatius and Saba  Curaçao  Sint Maarten  New Caledonia  New Zealand  Nicaragua  Niger  Nigeria  Niue  Norfolk Island  Northern Mariana Islands  Norway  Oman  Pakistan  Palau  Palestinian Territory, Occupied  Panama  Papua New Guinea  Paraguay  Peru  Philippines  Pitcairn  Poland  Portugal  Puerto Rico  Qatar  Reunion  Romania  Russian Federation  Rwanda  Saint Barthelemy  Saint Helena  Saint Kitts And Nevis  Saint Lucia  Saint Martin  Saint Pierre And Miquelon  Saint Vincent And Grenadines  Samoa  San Marino  Sao Tome And Principe  Saudi Arabia  Senegal  Serbia  Seychelles  Sierra Leone  Singapore  Slovakia  Slovenia  Solomon Islands  Somalia  South Africa  South Georgia And Sandwich Isl.  Spain  Sri Lanka  Sudan  South Sudan  Suriname  Svalbard And Jan Mayen  Swaziland  Sweden  Switzerland  Syrian Arab Republic  Taiwan  Tajikistan  Tanzania  Thailand  Timor-Leste  Togo  Tokelau  Tonga  Trinidad And Tobago  Tunisia  Turkey  Turkmenistan  Turks And Caicos Islands  Tuvalu  Uganda  Ukraine  United Arab Emirates  United Kingdom  United States  United States Outlying Islands  Uruguay  Uzbekistan  Vanuatu  Venezuela  Viet Nam  Virgin Islands, British  Virgin Islands, U.S.  Wallis And Futuna  Western Sahara  Yemen  Zambia  Zimbabwe </value>
+      <webElementGuid>23657e66-9b1d-4288-ad1c-976a598e0235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;generatedFormSingleSelect_issuingCountry&quot;)</value>
+      <webElementGuid>460fc8cb-96e4-42a7-9d75-2266dd09e10b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='generatedFormSingleSelect_issuingCountry']</value>
+      <webElementGuid>1478bad1-8887-44e2-94ac-c0114d4511a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//sct-form-dd-select[@id='0212efd0-5c9a-48c6-a2a8-62201f873d0a']/div/fieldset/select</value>
+      <webElementGuid>bb76164c-c8c9-4f0e-8ddf-881af534e4d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Issuing country'])[1]/following::select[1]</value>
+      <webElementGuid>646597e1-e8cd-4048-9ef8-fbc81fc2ed0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identification code'])[1]/following::select[1]</value>
+      <webElementGuid>102c68e1-19e7-4958-8ab4-b0c4bcbb87a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A value is required'])[1]/preceding::select[1]</value>
+      <webElementGuid>ea8ea26e-5c66-4192-abd6-98e496665173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Issuing authority'])[1]/preceding::select[1]</value>
+      <webElementGuid>4ea1a98c-100e-4240-af5e-fa26d5e03c17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sct-form-dd-select[2]/div/fieldset/select</value>
+      <webElementGuid>8e2a1783-0429-4583-8aa0-6fe6eb756e01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'generatedFormSingleSelect_issuingCountry' and (text() = concat(&quot;Please select an alternative  Afghanista  Aland Islands  Albania  Algeria  American Samoa  Andorra  Angola  Anguilla  Antarctica  Antigua And Barbuda  Argentina  Armenia  Aruba  Australia  Austria  Azerbaijan  Bahamas  Bahrain  Bangladesh  Barbados  Belarus  Belgium  Belize  Benin  Bermuda  Bhutan  Bolivia  Bosnia And Herzegovina  Botswana  Bouvet Island  Brazil  British Indian Ocean Territory  Brunei Darussalam  Bulgaria  Burkina Faso  Burundi  Cambodia  Cameroon  Canada  Cape Verde  Cayman Islands  Central African Republic  Chad  Chile  China  Christmas Island  Cocos (Keeling) Islands  Colombia  Comoros  Congo  Congo, Democratic Republic  Cook Islands  Costa Rica  Cote D&quot; , &quot;'&quot; , &quot;Ivoire  Croatia  Cuba  Cyprus  Czech Republic  Denmark  Djibouti  Dominica  Dominican Republic  Ecuador  Egypt  El Salvador  Equatorial Guinea  Eritrea  Estonia  Ethiopia  Falkland Islands (Malvinas)  Faroe Islands  Fiji  Finland  France  French Guiana  French Polynesia  French Southern Territories  Gabon  Gambia  Georgia  Germany  Ghana  Gibraltar  Greece  Greenland  Grenada  Guadeloupe  Guam  Guatemala  Guernsey  Guinea  Guinea-Bissau  Guyana  Haiti  Heard Island &amp; Mcdonald Islands  Holy See (Vatican City State)  Honduras  Hong Kong  Hungary  Iceland  India  Indonesia  Iran, Islamic Republic Of  Iraq  Ireland  Isle Of Man  Israel  Italy  Jamaica  Japan  Jersey  Jordan  Kazakhstan  Kenya  Kiribati  Korea (the Republic of)  Korea (the Democratic People&quot; , &quot;'&quot; , &quot;s Republic of)  Kuwait  Kyrgyzstan  Lao People&quot; , &quot;'&quot; , &quot;s Democratic Republic  Latvia  Lebanon  Lesotho  Liberia  Libyan Arab Jamahiriya  Liechtenstein  Lithuania  Luxembourg  Macao  Macedonia  Madagascar  Malawi  Malaysia  Maldives  Mali  Malta  Marshall Islands  Martinique  Mauritania  Mauritius  Mayotte  Mexico  Micronesia, Federated States Of  Moldova  Monaco  Mongolia  Montenegro  Montserrat  Morocco  Mozambique  Myanmar  Namibia  Nauru  Nepal  Netherlands  Bonaire, Saint Eustatius and Saba  Curaçao  Sint Maarten  New Caledonia  New Zealand  Nicaragua  Niger  Nigeria  Niue  Norfolk Island  Northern Mariana Islands  Norway  Oman  Pakistan  Palau  Palestinian Territory, Occupied  Panama  Papua New Guinea  Paraguay  Peru  Philippines  Pitcairn  Poland  Portugal  Puerto Rico  Qatar  Reunion  Romania  Russian Federation  Rwanda  Saint Barthelemy  Saint Helena  Saint Kitts And Nevis  Saint Lucia  Saint Martin  Saint Pierre And Miquelon  Saint Vincent And Grenadines  Samoa  San Marino  Sao Tome And Principe  Saudi Arabia  Senegal  Serbia  Seychelles  Sierra Leone  Singapore  Slovakia  Slovenia  Solomon Islands  Somalia  South Africa  South Georgia And Sandwich Isl.  Spain  Sri Lanka  Sudan  South Sudan  Suriname  Svalbard And Jan Mayen  Swaziland  Sweden  Switzerland  Syrian Arab Republic  Taiwan  Tajikistan  Tanzania  Thailand  Timor-Leste  Togo  Tokelau  Tonga  Trinidad And Tobago  Tunisia  Turkey  Turkmenistan  Turks And Caicos Islands  Tuvalu  Uganda  Ukraine  United Arab Emirates  United Kingdom  United States  United States Outlying Islands  Uruguay  Uzbekistan  Vanuatu  Venezuela  Viet Nam  Virgin Islands, British  Virgin Islands, U.S.  Wallis And Futuna  Western Sahara  Yemen  Zambia  Zimbabwe &quot;) or . = concat(&quot;Please select an alternative  Afghanista  Aland Islands  Albania  Algeria  American Samoa  Andorra  Angola  Anguilla  Antarctica  Antigua And Barbuda  Argentina  Armenia  Aruba  Australia  Austria  Azerbaijan  Bahamas  Bahrain  Bangladesh  Barbados  Belarus  Belgium  Belize  Benin  Bermuda  Bhutan  Bolivia  Bosnia And Herzegovina  Botswana  Bouvet Island  Brazil  British Indian Ocean Territory  Brunei Darussalam  Bulgaria  Burkina Faso  Burundi  Cambodia  Cameroon  Canada  Cape Verde  Cayman Islands  Central African Republic  Chad  Chile  China  Christmas Island  Cocos (Keeling) Islands  Colombia  Comoros  Congo  Congo, Democratic Republic  Cook Islands  Costa Rica  Cote D&quot; , &quot;'&quot; , &quot;Ivoire  Croatia  Cuba  Cyprus  Czech Republic  Denmark  Djibouti  Dominica  Dominican Republic  Ecuador  Egypt  El Salvador  Equatorial Guinea  Eritrea  Estonia  Ethiopia  Falkland Islands (Malvinas)  Faroe Islands  Fiji  Finland  France  French Guiana  French Polynesia  French Southern Territories  Gabon  Gambia  Georgia  Germany  Ghana  Gibraltar  Greece  Greenland  Grenada  Guadeloupe  Guam  Guatemala  Guernsey  Guinea  Guinea-Bissau  Guyana  Haiti  Heard Island &amp; Mcdonald Islands  Holy See (Vatican City State)  Honduras  Hong Kong  Hungary  Iceland  India  Indonesia  Iran, Islamic Republic Of  Iraq  Ireland  Isle Of Man  Israel  Italy  Jamaica  Japan  Jersey  Jordan  Kazakhstan  Kenya  Kiribati  Korea (the Republic of)  Korea (the Democratic People&quot; , &quot;'&quot; , &quot;s Republic of)  Kuwait  Kyrgyzstan  Lao People&quot; , &quot;'&quot; , &quot;s Democratic Republic  Latvia  Lebanon  Lesotho  Liberia  Libyan Arab Jamahiriya  Liechtenstein  Lithuania  Luxembourg  Macao  Macedonia  Madagascar  Malawi  Malaysia  Maldives  Mali  Malta  Marshall Islands  Martinique  Mauritania  Mauritius  Mayotte  Mexico  Micronesia, Federated States Of  Moldova  Monaco  Mongolia  Montenegro  Montserrat  Morocco  Mozambique  Myanmar  Namibia  Nauru  Nepal  Netherlands  Bonaire, Saint Eustatius and Saba  Curaçao  Sint Maarten  New Caledonia  New Zealand  Nicaragua  Niger  Nigeria  Niue  Norfolk Island  Northern Mariana Islands  Norway  Oman  Pakistan  Palau  Palestinian Territory, Occupied  Panama  Papua New Guinea  Paraguay  Peru  Philippines  Pitcairn  Poland  Portugal  Puerto Rico  Qatar  Reunion  Romania  Russian Federation  Rwanda  Saint Barthelemy  Saint Helena  Saint Kitts And Nevis  Saint Lucia  Saint Martin  Saint Pierre And Miquelon  Saint Vincent And Grenadines  Samoa  San Marino  Sao Tome And Principe  Saudi Arabia  Senegal  Serbia  Seychelles  Sierra Leone  Singapore  Slovakia  Slovenia  Solomon Islands  Somalia  South Africa  South Georgia And Sandwich Isl.  Spain  Sri Lanka  Sudan  South Sudan  Suriname  Svalbard And Jan Mayen  Swaziland  Sweden  Switzerland  Syrian Arab Republic  Taiwan  Tajikistan  Tanzania  Thailand  Timor-Leste  Togo  Tokelau  Tonga  Trinidad And Tobago  Tunisia  Turkey  Turkmenistan  Turks And Caicos Islands  Tuvalu  Uganda  Ukraine  United Arab Emirates  United Kingdom  United States  United States Outlying Islands  Uruguay  Uzbekistan  Vanuatu  Venezuela  Viet Nam  Virgin Islands, British  Virgin Islands, U.S.  Wallis And Futuna  Western Sahara  Yemen  Zambia  Zimbabwe &quot;))]</value>
+      <webElementGuid>f32bfede-2e23-4d8a-82e3-788e151e5e3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AddMarketing consent Completed</name>
+   <tag></tag>
+   <elementGuidId>3b2ba481-dc29-413a-a338-36291f2cc3e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cell-details-c7d1a2f4-1b31-4fa1-bf32-130c727db351-line-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[3]/following::div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;AddMarketing consent Completed&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2b8ac795-020f-4686-9226-fa100f3238f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c255-54</value>
+      <webElementGuid>4d363b7e-28ef-4df3-8fa7-07bdc7a26163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cell-details-c7d1a2f4-1b31-4fa1-bf32-130c727db351-line-0</value>
+      <webElementGuid>cb0b3849-b088-4242-ae65-2b1208ab2383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AddMarketing consent Completed
+</value>
+      <webElementGuid>d92de269-148a-44f1-b4bb-7c8a5c3ec76e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cell-details-c7d1a2f4-1b31-4fa1-bf32-130c727db351-line-0&quot;)</value>
+      <webElementGuid>16651f9c-96f7-43f5-98ef-398443e0537b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='cell-details-c7d1a2f4-1b31-4fa1-bf32-130c727db351-line-0']</value>
+      <webElementGuid>be25a87c-4c92-4bbb-a463-fa0018ba514d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='c7d1a2f4-1b31-4fa1-bf32-130c727db351']/td/div/div/div</value>
+      <webElementGuid>89cfe9db-e343-48ce-a38e-d8d8bef8844e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[3]/following::div[3]</value>
+      <webElementGuid>5bbc75b5-1210-430d-99b9-b602ee33ca6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regular numbers'])[1]/following::div[3]</value>
+      <webElementGuid>71eed6f8-4f38-444e-a580-b92ff5761055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody[3]/tr/td/div/div/div</value>
+      <webElementGuid>8a2a3419-552d-458b-b675-9dceaf3a6470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'cell-details-c7d1a2f4-1b31-4fa1-bf32-130c727db351-line-0' and (text() = 'AddMarketing consent Completed
+' or . = 'AddMarketing consent Completed
+')]</value>
+      <webElementGuid>39e9ebb8-019a-4969-8989-d3f50bf1fa7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

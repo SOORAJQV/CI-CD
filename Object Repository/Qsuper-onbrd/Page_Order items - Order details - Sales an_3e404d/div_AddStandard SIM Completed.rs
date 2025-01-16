@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AddStandard SIM Completed</name>
+   <tag></tag>
+   <elementGuidId>5125eedf-8040-47b0-8334-4385044b1afe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cell-details-ba977b28-6fac-4c04-af26-793123f197cd-line-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cell-details-ba977b28-6fac-4c04-af26-793123f197cd-line-0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;AddStandard SIM Completed&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ba130b05-9b4b-43e2-9bef-23a2bbae99bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c255-54</value>
+      <webElementGuid>46773ec5-4f34-4709-a713-be8bc244f25e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cell-details-ba977b28-6fac-4c04-af26-793123f197cd-line-0</value>
+      <webElementGuid>597b6bc3-1c38-4137-bbc0-117dd22f549a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AddStandard SIM Completed
+</value>
+      <webElementGuid>9d7194fe-a76b-4cd8-a524-24c0506a2d42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cell-details-ba977b28-6fac-4c04-af26-793123f197cd-line-0&quot;)</value>
+      <webElementGuid>13db9f36-369e-48c7-9a47-29c4e6639451</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='cell-details-ba977b28-6fac-4c04-af26-793123f197cd-line-0']</value>
+      <webElementGuid>b3d6bf82-a717-4c48-8ad4-a76f0c76c24b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='ba977b28-6fac-4c04-af26-793123f197cd']/td/div/div/div</value>
+      <webElementGuid>61647494-c18e-4651-b6af-3c4b714df214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[6]/following::div[3]</value>
+      <webElementGuid>24505cf1-58dc-4823-8c23-6d822e1f5e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activate postpaid subscription container'])[1]/following::div[3]</value>
+      <webElementGuid>5b9e1c48-9561-4e5d-ae92-21263558750d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody[6]/tr/td/div/div/div</value>
+      <webElementGuid>74fbd399-6d50-4bf2-aec8-670287681e36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'cell-details-ba977b28-6fac-4c04-af26-793123f197cd-line-0' and (text() = 'AddStandard SIM Completed
+' or . = 'AddStandard SIM Completed
+')]</value>
+      <webElementGuid>ae7553bc-3353-403d-8cf6-9a9a373e9b53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

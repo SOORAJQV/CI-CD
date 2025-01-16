@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Logoutnm_fa-tachometer-alt w-emphasize fas ng-tns-c262-18</name>
+   <tag></tag>
+   <elementGuidId>f6e37c9c-154d-44a1-9068-dd199618aa64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w-app']/sct-context-customer/div/nav/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa-tachometer-alt.w-emphasize.fas.ng-tns-c262-18</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>66884bd9-317b-49cc-abfc-ce68a8d5004e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-tachometer-alt w-emphasize fas ng-tns-c262-18</value>
+      <webElementGuid>b9cf4572-4d1a-40be-a210-e65d5ac00571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w-app&quot;)/sct-context-customer[@class=&quot;ng-tns-c262-18 ng-star-inserted&quot;]/div[@class=&quot;f-context--wrapper ng-tns-c262-18 ng-star-inserted&quot;]/nav[@class=&quot;w-nav-context f-nav-context--prepend f-nav-context--active-context-on-page ng-tns-c262-18&quot;]/a[@class=&quot;ng-tns-c262-18&quot;]/i[@class=&quot;fa-tachometer-alt w-emphasize fas ng-tns-c262-18&quot;]</value>
+      <webElementGuid>ab53e76c-876a-400a-a9e6-2cbe77733f1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w-app']/sct-context-customer/div/nav/a/i</value>
+      <webElementGuid>1387ef75-d808-4362-b0b5-90b1aa199314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/a/i</value>
+      <webElementGuid>48950b6e-1384-4097-831e-bbc9dd2aa3a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

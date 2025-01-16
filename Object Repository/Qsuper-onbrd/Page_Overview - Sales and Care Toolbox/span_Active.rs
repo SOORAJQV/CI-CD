@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Active</name>
+   <tag></tag>
+   <elementGuidId>32070e5d-06d2-4e62-8760-aec78a16952d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.badge.badge-outline-success.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='subscriptionContent']/sct-dynamic-component-renderer/sct-overview-subscription-details/section/div[2]/sct-key-value/div/div/div/div[2]/span/sct-lifecycle-status/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>sct-key-value >> internal:text=&quot;Active&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>94cafb89-5e36-4d97-aa22-393aa35e1e20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>badge,,badge-outline-success,</value>
+      <webElementGuid>cdcd8515-4fee-4ae2-910b-db1dde0b6e9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>badge badge-outline-success ng-star-inserted</value>
+      <webElementGuid>8c9f0496-0fb4-4eba-8dcf-f1eff5cfb1e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Active
+</value>
+      <webElementGuid>0d9291f2-2a27-4b40-a4fa-af33d7d1f877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;subscriptionContent&quot;)/sct-dynamic-component-renderer[@class=&quot;ng-star-inserted&quot;]/sct-overview-subscription-details[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;w-box subscription&quot;]/div[@class=&quot;d-flex&quot;]/sct-key-value[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;w-key-value-list-group ng-star-inserted&quot;]/div[@class=&quot;w-key-value-list ng-star-inserted&quot;]/div[@class=&quot;w-key-value-row ng-star-inserted&quot;]/div[@class=&quot;w-value&quot;]/span[1]/sct-lifecycle-status[@class=&quot;ng-star-inserted&quot;]/span[@class=&quot;badge badge-outline-success ng-star-inserted&quot;]</value>
+      <webElementGuid>9c0d7d25-69d1-41e6-9a4a-2508486458f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='subscriptionContent']/sct-dynamic-component-renderer/sct-overview-subscription-details/section/div[2]/sct-key-value/div/div/div/div[2]/span/sct-lifecycle-status/span</value>
+      <webElementGuid>7bb02b23-d709-4b0e-b280-b9c7270eeffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::span[2]</value>
+      <webElementGuid>b4853069-1d6d-452b-906f-822bac6e9571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View details'])[1]/following::span[2]</value>
+      <webElementGuid>665e5ba1-f979-40de-b463-e43eaaac5308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/preceding::span[1]</value>
+      <webElementGuid>8805890a-2be4-43e3-b68d-c6d0afe2c2fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='trerwcffscghiuuyys 543'])[4]/preceding::span[1]</value>
+      <webElementGuid>6806a26c-c0bb-4de4-b08f-45166e005c41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Active']/parent::*</value>
+      <webElementGuid>a916c66a-e681-498b-aba9-87305143ec16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sct-lifecycle-status/span</value>
+      <webElementGuid>fd67539b-16b8-4909-b099-0df351c97933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Active
+' or . = ' Active
+')]</value>
+      <webElementGuid>54802912-6cd9-4be9-87d9-0ac267df644f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

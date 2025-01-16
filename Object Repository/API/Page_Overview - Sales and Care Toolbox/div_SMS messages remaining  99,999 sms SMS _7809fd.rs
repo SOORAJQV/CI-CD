@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SMS messages remaining  99,999 sms SMS _7809fd</name>
+   <tag></tag>
+   <elementGuidId>aeef3ed4-3589-4061-aed9-35dfa4fba99f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='subscriptionContent']/sct-dynamic-component-renderer[4]/sct-allowances/section/div/div/div[3]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;SMS messages remaining 99,999 sms SMS messages 99,999 sms&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a7872c1c-f6a9-4dbf-afae-dceea3c16cf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-tile-body</value>
+      <webElementGuid>00720b4a-1273-40ab-9c20-1b7970ae0161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SMS messages remaining  99,999 sms SMS messages 99,999 sms </value>
+      <webElementGuid>6b898015-f93f-46e7-bf49-519e04c85273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;subscriptionContent&quot;)/sct-dynamic-component-renderer[@class=&quot;ng-star-inserted&quot;]/sct-allowances[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;overview allowances w-box&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;w-tile-group ng-star-inserted&quot;]/div[@class=&quot;w-tile w-tile-block w-tile-success ng-star-inserted&quot;]/div[@class=&quot;w-tile-body&quot;]</value>
+      <webElementGuid>084566bb-3e6a-44e9-abd1-f3f617977ffa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='subscriptionContent']/sct-dynamic-component-renderer[4]/sct-allowances/section/div/div/div[3]/div[2]</value>
+      <webElementGuid>e83e11c2-92af-4e97-8dda-8330f6c3f7df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qvantel Postpaid Subscription'])[2]/following::div[3]</value>
+      <webElementGuid>448519c9-92ce-4d73-9b2d-4028f2859fd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[3]/following::div[6]</value>
+      <webElementGuid>b7b502cb-3a03-47b8-b7cb-cf9ba4ee158f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div[3]/div[2]</value>
+      <webElementGuid>fd91662a-f134-4651-acad-7d61d82b0221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SMS messages remaining  99,999 sms SMS messages 99,999 sms ' or . = 'SMS messages remaining  99,999 sms SMS messages 99,999 sms ')]</value>
+      <webElementGuid>e600f960-15e0-47b3-b7de-024ef9b89a15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

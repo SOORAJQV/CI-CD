@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_358900027590</name>
+   <tag></tag>
+   <elementGuidId>1dd26ac9-8766-45c4-8d62-aaed2cd00535</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='subscriptionContent']/sct-dynamic-component-renderer/sct-overview-subscription-details/section/div/h2/small</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>small.ml-2.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Qvantel Super 5G 358900027590 &quot;i] >> small</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>eb469957-31e7-4107-a505-3e8a672eb8f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-2 ng-star-inserted</value>
+      <webElementGuid>a023cb0d-45be-4783-8ddd-8ab923143f51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 358900027590 </value>
+      <webElementGuid>a41cf042-3f2a-46d8-ad65-a05e75d448fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;subscriptionContent&quot;)/sct-dynamic-component-renderer[@class=&quot;ng-star-inserted&quot;]/sct-overview-subscription-details[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;w-box subscription&quot;]/div[@class=&quot;f-component-header ng-star-inserted&quot;]/h2[1]/small[@class=&quot;ml-2 ng-star-inserted&quot;]</value>
+      <webElementGuid>f247568f-3178-4ece-8d34-d4ab73f5e378</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='subscriptionContent']/sct-dynamic-component-renderer/sct-overview-subscription-details/section/div/h2/small</value>
+      <webElementGuid>9767d08f-5d3c-41a0-ad0b-e0207ce92321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qvantel Super 5G'])[1]/following::small[1]</value>
+      <webElementGuid>cbb22671-004a-431f-bb6e-e30f977fb6b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscription overview'])[1]/following::small[1]</value>
+      <webElementGuid>61333c84-0f38-456a-9464-a91d8027e192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adjustment'])[1]/preceding::small[1]</value>
+      <webElementGuid>72082da1-3cc7-43ab-ad30-3a711dd6b0b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View details'])[1]/preceding::small[1]</value>
+      <webElementGuid>281c1e03-bdbd-4c95-9989-3fee1052e1d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='358900027590']/parent::*</value>
+      <webElementGuid>62e92347-8b76-40dc-98d9-221c9f5a1449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/small</value>
+      <webElementGuid>273ae031-9a6b-43ae-ae32-b0a19c00bbc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = ' 358900027590 ' or . = ' 358900027590 ')]</value>
+      <webElementGuid>abf4a4ba-5cd8-4397-b4aa-f0dcb6f4f607</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

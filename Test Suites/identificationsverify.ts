@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>identificationsverify</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>6f02a4b7-7585-485e-90eb-13b608f0ffa6</testSuiteGuid>
+   <testCaseLink>
+      <guid>252f0357-4df8-4c08-86d3-d7d193d2e8bc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Qsuper-identification</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>14ec1301-71e6-4fd6-b8ba-3402ed7a44a7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Excel-test data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>14ec1301-71e6-4fd6-b8ba-3402ed7a44a7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>identificationid</value>
+         <variableId>8a1ebbcd-c844-42ac-8b5f-390ed6487448</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>14ec1301-71e6-4fd6-b8ba-3402ed7a44a7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>issuingauthority</value>
+         <variableId>203f5fc9-3c36-436e-8e94-3f948b3c5147</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>14ec1301-71e6-4fd6-b8ba-3402ed7a44a7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>givenname </value>
+         <variableId>28a7aa4f-090e-4836-bad1-689c534651b6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>14ec1301-71e6-4fd6-b8ba-3402ed7a44a7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>familyname </value>
+         <variableId>7ef27316-b365-4980-b851-af3848b68841</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>14ec1301-71e6-4fd6-b8ba-3402ed7a44a7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>city</value>
+         <variableId>05c72906-1f5c-40c4-ae98-99367dca50f6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>14ec1301-71e6-4fd6-b8ba-3402ed7a44a7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>street</value>
+         <variableId>11a066a4-10de-4cb3-9698-6d0925dcf7c4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>14ec1301-71e6-4fd6-b8ba-3402ed7a44a7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>postalcode</value>
+         <variableId>43c8d70f-d46d-473f-a314-b5b761990c7a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>14ec1301-71e6-4fd6-b8ba-3402ed7a44a7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>8f2c5522-8a53-4718-b760-97a08341610e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>14ec1301-71e6-4fd6-b8ba-3402ed7a44a7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>fullname </value>
+         <variableId>80f447e4-2dbb-423d-9b10-401b7f191cd3</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

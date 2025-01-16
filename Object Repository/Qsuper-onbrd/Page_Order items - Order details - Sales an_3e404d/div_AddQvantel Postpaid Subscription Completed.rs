@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AddQvantel Postpaid Subscription Completed</name>
+   <tag></tag>
+   <elementGuidId>3d7c3c3f-9cfc-4bdc-8b57-60c9f8d442f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cell-details-4d056ec2-d80c-4903-8c05-4d4a51e2b614-line-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Prices'])[1]/following::div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;AddQvantel Postpaid Subscription Completed&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f1fab98f-9672-4ba1-a790-637b506c88fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c255-54</value>
+      <webElementGuid>a8d320a8-ff30-4eba-b702-5803dbbf24d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cell-details-4d056ec2-d80c-4903-8c05-4d4a51e2b614-line-0</value>
+      <webElementGuid>92ddd77e-8b3b-474f-b1fe-cad0bb0b1a79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AddQvantel Postpaid Subscription Completed
+</value>
+      <webElementGuid>4353e943-c145-4019-80dc-061317687068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cell-details-4d056ec2-d80c-4903-8c05-4d4a51e2b614-line-0&quot;)</value>
+      <webElementGuid>5ce62b33-e91a-4e92-ac79-acda45930d70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='cell-details-4d056ec2-d80c-4903-8c05-4d4a51e2b614-line-0']</value>
+      <webElementGuid>2ce6e92e-6538-491e-b041-0456e0a70ff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='4d056ec2-d80c-4903-8c05-4d4a51e2b614']/td/div/div/div</value>
+      <webElementGuid>b942a4da-2f98-4b58-978f-bd5563194635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prices'])[1]/following::div[3]</value>
+      <webElementGuid>9241bd4c-d644-4af1-b38f-410545ae87a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/following::div[4]</value>
+      <webElementGuid>aa95d039-f83b-487a-a384-a98368304334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/div</value>
+      <webElementGuid>b01363d2-c028-4fe8-9097-e198c0b59046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'cell-details-4d056ec2-d80c-4903-8c05-4d4a51e2b614-line-0' and (text() = 'AddQvantel Postpaid Subscription Completed
+' or . = 'AddQvantel Postpaid Subscription Completed
+')]</value>
+      <webElementGuid>7bb3fa9e-46c4-46a6-ac04-a5f67998d347</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

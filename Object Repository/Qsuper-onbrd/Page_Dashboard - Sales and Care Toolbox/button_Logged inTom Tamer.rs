@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Logged inTom Tamer</name>
+   <tag></tag>
+   <elementGuidId>2c15bc47-a772-49f5-8e43-636521f0b681</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.dropdown-toggle.w-action-item-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='w-app-actions']/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Logged in Tom Tamer &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>308c7712-e06a-4a6e-a188-e33116f826f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle w-action-item-link</value>
+      <webElementGuid>8f3952fd-34bc-4ef7-aaa7-6dcbf96f7838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e6f0e6fb-8d1f-43ec-b46c-ca7ad394bd8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Logged inTom Tamer</value>
+      <webElementGuid>00775a34-7ecc-4387-9a97-5b6068434734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w-app-header&quot;)/div[@class=&quot;d-flex flex-grow-1 align-items-center justify-content-between&quot;]/nav[@id=&quot;w-app-actions&quot;]/div[@class=&quot;w-action-item dropdown&quot;]/button[@class=&quot;dropdown-toggle w-action-item-link&quot;]</value>
+      <webElementGuid>aed13bde-9353-453d-9818-8e8d41707cbd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='w-app-actions']/div/button</value>
+      <webElementGuid>04fdba0d-0653-486f-a84c-01e0114d0dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Español'])[1]/following::button[2]</value>
+      <webElementGuid>6490d56d-bc5a-491a-bdb0-aa7911e0851b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::button[3]</value>
+      <webElementGuid>6eb3a1db-0530-4377-8387-0b89d659ac16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/button</value>
+      <webElementGuid>721b0877-6b9b-4611-9dad-5fa0a42654d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Logged inTom Tamer' or . = 'Logged inTom Tamer')]</value>
+      <webElementGuid>561c1b47-ad30-4e8c-8449-d14f1d43ec99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

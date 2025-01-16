@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Qvantel Super Active</name>
+   <tag></tag>
+   <elementGuidId>1384bda5-83e9-476b-a72a-9d686e556956</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.f-nav-vertical-item--row</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w-app-body']/main/section/ui-view/ui-view/sct-subscriptions-and-bundles/div/div/div/div/div/nav/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Qvantel Super Active 358900038080 Owner, Payer&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c8bec8bc-1ac2-4afa-8275-1b76c0b3035d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>f-nav-vertical-item--row</value>
+      <webElementGuid>4691076d-f244-441d-98ce-a07b804fc4f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Qvantel Super Active
+</value>
+      <webElementGuid>28742ed2-969c-402d-8bd1-961ec5afc9f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w-app-body&quot;)/main[1]/section[1]/ui-view[@class=&quot;ng-star-inserted&quot;]/ui-view[@class=&quot;ng-star-inserted&quot;]/sct-subscriptions-and-bundles[@class=&quot;ng-star-inserted&quot;]/div[1]/div[1]/div[@class=&quot;align-items-stretch row ng-star-inserted&quot;]/div[@class=&quot;col f-col-nav d-none d-xl-block&quot;]/div[1]/nav[@class=&quot;w-nav-vertical&quot;]/div[@class=&quot;w-nav-vertical-group&quot;]/a[@class=&quot;w-nav-vertical-item active ng-star-inserted&quot;]/div[@class=&quot;f-nav-vertical-item--row&quot;]</value>
+      <webElementGuid>713e8edb-f8ab-4878-862e-903a935ae3d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w-app-body']/main/section/ui-view/ui-view/sct-subscriptions-and-bundles/div/div/div/div/div/nav/div/a/div</value>
+      <webElementGuid>55e2fecd-4682-415c-9977-0c3ab8d33f8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriptions'])[1]/following::div[1]</value>
+      <webElementGuid>7b916a54-fd23-4bb0-badc-a96ae43037a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriptions and bundles'])[2]/following::div[9]</value>
+      <webElementGuid>423942cf-84e9-4358-92bf-a96ae3727791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>c0f1c819-f250-4dbd-a721-c0a96e56b541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Qvantel Super Active
+' or . = 'Qvantel Super Active
+')]</value>
+      <webElementGuid>e2b0bf0c-fa4c-46ee-b346-360372bb1539</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

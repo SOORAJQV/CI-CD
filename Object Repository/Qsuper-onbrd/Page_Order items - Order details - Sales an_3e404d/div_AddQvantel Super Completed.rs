@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AddQvantel Super Completed</name>
+   <tag></tag>
+   <elementGuidId>a5363b21-be85-4db3-830f-e441d32a3851</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cell-details-66c36213-aed5-4fb3-94f2-bdaf750c7607-line-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[4]/following::div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;AddQvantel Super Completed&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7562d6d1-6703-4f46-b443-20fe4dc4d209</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c255-54</value>
+      <webElementGuid>6e143d5b-664c-4e9f-a67d-927c27b4c6b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cell-details-66c36213-aed5-4fb3-94f2-bdaf750c7607-line-0</value>
+      <webElementGuid>a7f7b9bc-6633-4f30-965b-73e8cb2f242c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AddQvantel Super Completed
+</value>
+      <webElementGuid>4b3b25f4-688e-4ac8-ad83-61601df82283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cell-details-66c36213-aed5-4fb3-94f2-bdaf750c7607-line-0&quot;)</value>
+      <webElementGuid>1c6fad7a-b442-4b23-ab12-3f7ef0c80ffd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='cell-details-66c36213-aed5-4fb3-94f2-bdaf750c7607-line-0']</value>
+      <webElementGuid>d9e9d3b9-b465-4075-87a0-f5fe5e60fbd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='66c36213-aed5-4fb3-94f2-bdaf750c7607']/td/div/div/div</value>
+      <webElementGuid>f1de5832-4c20-4951-9a86-34bc1dd62097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[4]/following::div[3]</value>
+      <webElementGuid>7ce049ec-4d2f-4dd3-aa6d-62e62561d74b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketing consent'])[1]/following::div[3]</value>
+      <webElementGuid>45ec35c4-8138-499c-8de8-ecd1aecb9233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody[4]/tr/td/div/div/div</value>
+      <webElementGuid>5a90d5fb-4e48-45f3-8911-4bfb6fd456f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'cell-details-66c36213-aed5-4fb3-94f2-bdaf750c7607-line-0' and (text() = 'AddQvantel Super Completed
+' or . = 'AddQvantel Super Completed
+')]</value>
+      <webElementGuid>f809b471-08a3-4899-acb0-7337eaa5551d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

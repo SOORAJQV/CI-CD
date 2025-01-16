@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AddStandard Delivery Completed</name>
+   <tag></tag>
+   <elementGuidId>a40d5777-f08e-4bfa-8eda-86dd8d0beafd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cell-details-08f2fac0-ec8b-4103-94e0-0b7a1c803987-line-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cell-details-08f2fac0-ec8b-4103-94e0-0b7a1c803987-line-0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;AddStandard Delivery Completed&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8581ea9a-ab9c-42cd-a3fb-e60ea8142623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c255-54</value>
+      <webElementGuid>95e5baca-dc64-49f4-89f2-657c3fd764d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cell-details-08f2fac0-ec8b-4103-94e0-0b7a1c803987-line-0</value>
+      <webElementGuid>6009278c-91c9-4c77-8907-dd00145cfd3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AddStandard Delivery Completed
+</value>
+      <webElementGuid>a340979c-f375-48ba-93ac-cf88f41a591f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cell-details-08f2fac0-ec8b-4103-94e0-0b7a1c803987-line-0&quot;)</value>
+      <webElementGuid>9bcbc135-19b8-4365-8a88-0cde6fc0db1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='cell-details-08f2fac0-ec8b-4103-94e0-0b7a1c803987-line-0']</value>
+      <webElementGuid>aaa0add1-c72d-4cbb-bfef-88ee37b9411a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='08f2fac0-ec8b-4103-94e0-0b7a1c803987']/td/div/div/div</value>
+      <webElementGuid>c8d32cab-262e-4a4d-bc9a-7037d5b4012c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[7]/following::div[3]</value>
+      <webElementGuid>d03f9080-bce8-43d0-af94-bbdadaf7a81b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Standard SIM'])[1]/following::div[3]</value>
+      <webElementGuid>480407cf-a092-42cc-817e-97fffb925565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody[7]/tr/td/div/div/div</value>
+      <webElementGuid>e835d499-1600-406e-894d-4fde3c868cf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'cell-details-08f2fac0-ec8b-4103-94e0-0b7a1c803987-line-0' and (text() = 'AddStandard Delivery Completed
+' or . = 'AddStandard Delivery Completed
+')]</value>
+      <webElementGuid>46d87e74-3e71-4587-b3a2-49f159a0a24c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

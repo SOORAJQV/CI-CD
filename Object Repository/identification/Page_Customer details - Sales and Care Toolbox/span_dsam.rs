@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_dsam</name>
+   <tag></tag>
+   <elementGuidId>2077dcb3-e360-45b1-a0dc-93d7915f157e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='First name'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#92d7ab3e-4c5c-492f-b303-10c4f8e79e62 > sct-key-value > div.w-key-value-list-group.ng-star-inserted > div.w-key-value-list.ng-star-inserted > div.w-key-value-row.ng-star-inserted > div.w-value > span > sct-non-empty.ng-star-inserted > span.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;dsam&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8ea55416-fb30-41a9-9c0e-76134a857737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>8eb01b35-35a2-4229-ba42-553a345dc19f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>dsam</value>
+      <webElementGuid>f426de3b-cd42-4986-b8e1-4bb99873b485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;92d7ab3e-4c5c-492f-b303-10c4f8e79e62&quot;)/sct-key-value[1]/div[@class=&quot;w-key-value-list-group ng-star-inserted&quot;]/div[@class=&quot;w-key-value-list ng-star-inserted&quot;]/div[@class=&quot;w-key-value-row ng-star-inserted&quot;]/div[@class=&quot;w-value&quot;]/span[1]/sct-non-empty[@class=&quot;ng-star-inserted&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>905f66bb-0bf2-40fc-9866-aa4c1cebfb0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//sct-form-dd-key-value[@id='92d7ab3e-4c5c-492f-b303-10c4f8e79e62']/sct-key-value/div/div/div/div[2]/span/sct-non-empty/span</value>
+      <webElementGuid>afe221b2-7c8a-4063-8cc7-991120a1de26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First name'])[1]/following::span[2]</value>
+      <webElementGuid>c6ffb39c-9d00-49a7-beee-167563ed4aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit personal details'])[1]/following::span[2]</value>
+      <webElementGuid>2812e64b-5f6c-4008-810a-4024fea3265e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Middle name'])[1]/preceding::span[1]</value>
+      <webElementGuid>51ccbd4d-4b99-4793-823b-68c3502f8fad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[2]/preceding::span[1]</value>
+      <webElementGuid>c1fe8262-aa05-48cc-a00e-17c4cc09d53f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='dsam']/parent::*</value>
+      <webElementGuid>eb0efb7e-f04e-4c99-840a-00e2744c721c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sct-account-personal-details/div/sct-flowable/div/sct-form/form/div/sct-form-dd-key-value/sct-key-value/div/div/div/div[2]/span/sct-non-empty/span</value>
+      <webElementGuid>8b8e4c7f-dff3-473c-a5ec-6be957e35b83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'dsam' or . = 'dsam')]</value>
+      <webElementGuid>d541e64d-8c1a-483c-aab5-00ed8de70032</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

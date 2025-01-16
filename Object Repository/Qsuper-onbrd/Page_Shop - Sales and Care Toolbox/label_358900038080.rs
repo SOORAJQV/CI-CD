@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_358900038080</name>
+   <tag></tag>
+   <elementGuidId>142a771e-6a0d-46dc-8c26-7e22947cb221</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.custom-control.custom-radio.sct-form-radio.ng-star-inserted > label.custom-control-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Available numbers'])[1]/following::label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;358900038080&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c67965f5-36aa-4184-9a41-6cf26b653fee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label</value>
+      <webElementGuid>91d5fb74-6093-4e41-ad11-aa57a6682831</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>4886d7aa-7bf6-46b0-9116-d3dac0887270^!---!^_0</value>
+      <webElementGuid>370ff571-4925-460f-87fe-62ff67514127</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 358900038080 </value>
+      <webElementGuid>8af6e902-8e17-4d97-b674-0e5d1921f067</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;66bc646e-5678-493b-8105-ba89c3ef2c5c&quot;)/div[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[1]/div[@class=&quot;custom-control custom-radio sct-form-radio ng-star-inserted&quot;]/label[@class=&quot;custom-control-label&quot;]</value>
+      <webElementGuid>e28bc16e-0734-414d-8efd-f74d3c171a82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//sct-form-dd-radio-input[@id='66bc646e-5678-493b-8105-ba89c3ef2c5c']/div/div/div/label</value>
+      <webElementGuid>5aee202d-bb89-4dca-83e5-d561016bf8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available numbers'])[1]/following::label[1]</value>
+      <webElementGuid>8043ab18-27da-4b19-8c90-a7d6c71bb5cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specify a pattern'])[1]/following::label[2]</value>
+      <webElementGuid>962a97de-5c9d-46c4-a26b-2299d2bff790</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A value is required'])[1]/preceding::label[4]</value>
+      <webElementGuid>13f7e153-59c9-4831-a167-30e894126a8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New numbers'])[1]/preceding::label[4]</value>
+      <webElementGuid>e3e8f2b7-3221-4c90-aa73-7368691d5203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='358900038080']/parent::*</value>
+      <webElementGuid>8e47bad3-ba6b-4c15-a62c-9a7877efbff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/label</value>
+      <webElementGuid>c97c8078-671e-460d-be7e-7934d6549531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' 358900038080 ' or . = ' 358900038080 ')]</value>
+      <webElementGuid>5a57a5e5-4ac4-4d5d-8ee7-725bce71f8d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

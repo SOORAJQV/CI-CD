@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Customer</name>
+   <tag></tag>
+   <elementGuidId>f126fbdd-7e1d-4100-8d90-9a7ae1a95fe9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w-app']/nav/sct-navigation/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Customer&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c35c0625-4400-49c6-9160-a7405ccbf549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customer</value>
+      <webElementGuid>80d92978-3421-4f63-bd65-d473d1b0f680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w-app&quot;)/nav[@class=&quot;w-nav-primary f-nav-primary d-md-block ng-star-inserted d-none&quot;]/sct-navigation[@class=&quot;w-nav-primary ml-0 mr-0&quot;]/ul[1]/li[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;d-block&quot;]/span[1]</value>
+      <webElementGuid>b98aae94-b65d-4031-a7cb-24cfd351e647</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w-app']/nav/sct-navigation/ul/li[2]/a/span</value>
+      <webElementGuid>07fa57fc-0ffc-4453-b627-59232c122b16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[2]/following::span[1]</value>
+      <webElementGuid>3f2de06b-5524-47d2-a212-44cf77a1cb53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perform Payment'])[1]/following::span[2]</value>
+      <webElementGuid>481b499f-acce-49d2-a6cb-fcf21cafb0b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[2]/preceding::span[1]</value>
+      <webElementGuid>cef451f5-1929-4733-ac74-f3a8661cdb56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financials'])[2]/preceding::span[2]</value>
+      <webElementGuid>0c1f5402-42b3-43d6-a3f5-e230932f0117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/nav/sct-navigation/ul/li[2]/a/span</value>
+      <webElementGuid>2b714a2e-ad3f-4fd5-9308-c114572e2921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Customer' or . = 'Customer')]</value>
+      <webElementGuid>61795222-aaa6-45fa-9bc6-cb5aba4ad890</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

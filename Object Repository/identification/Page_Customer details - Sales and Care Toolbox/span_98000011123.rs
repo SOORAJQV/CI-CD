@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_98000011123</name>
+   <tag></tag>
+   <elementGuidId>e5f59d09-cfc5-4fe7-ae31-72e426df2a54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Identification ID'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>sct-account-personal-details >> internal:text=&quot;98000011123&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>44613d5e-406c-4a00-873a-93e48dd148af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>ee3013dc-806a-4389-9c9f-34105fdf9da0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>98000011123</value>
+      <webElementGuid>b56e37b4-84ca-4267-8d2d-f5c4ced4a9ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;506c46da-02c3-4507-9ecc-e0e317a1a2e0&quot;)/sct-key-value[1]/div[@class=&quot;w-key-value-list-group ng-star-inserted&quot;]/div[@class=&quot;w-key-value-list ng-star-inserted&quot;]/div[@class=&quot;w-key-value-row ng-star-inserted&quot;]/div[@class=&quot;w-value&quot;]/span[1]/sct-non-empty[@class=&quot;ng-star-inserted&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>f768e79f-0724-4d82-b8b5-4f2a2b447c63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//sct-form-dd-key-value[@id='506c46da-02c3-4507-9ecc-e0e317a1a2e0']/sct-key-value/div/div/div[2]/div[2]/span/sct-non-empty/span</value>
+      <webElementGuid>a18cdacd-a764-44d5-9e7c-3d13428598b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Identification ID'])[1]/following::span[2]</value>
+      <webElementGuid>c6328b81-10ab-4029-a060-24d236c8b8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[5]/following::span[2]</value>
+      <webElementGuid>353b6a74-b895-469b-96fa-a1c080699300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of birth'])[1]/preceding::span[1]</value>
+      <webElementGuid>4c2d15b4-5fc2-4f9e-8198-dcbb28d3f2f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[6]/preceding::span[1]</value>
+      <webElementGuid>5e32baa0-0bca-4cc0-8006-608321acc75c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sct-account-personal-details/div/sct-flowable/div/sct-form/form/div/sct-form-dd-key-value[2]/sct-key-value/div/div/div[2]/div[2]/span/sct-non-empty/span</value>
+      <webElementGuid>7eb91ea0-3f65-421e-9905-d15aaf3633ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '98000011123' or . = '98000011123')]</value>
+      <webElementGuid>456dd908-25a8-4a46-ada2-290e235fca95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

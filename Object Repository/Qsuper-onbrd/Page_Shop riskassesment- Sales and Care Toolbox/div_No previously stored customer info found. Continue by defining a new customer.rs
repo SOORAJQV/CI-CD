@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_No previously stored customer info found. Continue by defining a new customer</name>
+   <tag></tag>
+   <elementGuidId>1f8a85b4-1735-4dfa-bceb-a5cdb4a6db6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-success.mb-0.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=alert</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>451acef4-79d8-4915-a543-16dfd2ca0308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>c9d69426-4bb2-4583-9a6e-b2e9e8c4679d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-success mb-0 ng-star-inserted</value>
+      <webElementGuid>0696ad98-6fe8-4b21-b823-8e2bd366128b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>0f7d0d3a-3e3c-4f20-909a-7023aebed6eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No previously stored customer info found. Continue by defining a new customer.</value>
+      <webElementGuid>658e6a04-925e-4c19-8fcf-9d6c8e984ba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;952b7a19-f572-489a-a119-838c63bd33ca&quot;)/div[@class=&quot;alert-container&quot;]/div[@class=&quot;alert alert-success mb-0 ng-star-inserted&quot;]</value>
+      <webElementGuid>b18bd6f2-da51-459c-bf05-ca22f9d33085</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//sct-form-dd-alert[@id='952b7a19-f572-489a-a119-838c63bd33ca']/div/div</value>
+      <webElementGuid>5637a4a2-686e-4e8e-a92b-993b47c537a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Captured identity'])[1]/following::div[3]</value>
+      <webElementGuid>cee1fe3f-1462-4aa1-9282-51881c3386ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[5]</value>
+      <webElementGuid>fabfebe0-86bf-4f49-8469-92e82df21b64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identification type'])[1]/preceding::div[3]</value>
+      <webElementGuid>fcced255-af52-44f8-9eb5-4adbfc8e7c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Driving license'])[1]/preceding::div[4]</value>
+      <webElementGuid>354b7dce-2cd8-4a7a-bce6-b38038fddc85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sct-form-dd-alert/div/div</value>
+      <webElementGuid>543fc264-62bd-4a3e-8fd3-47f779c6e8b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'No previously stored customer info found. Continue by defining a new customer.' or . = 'No previously stored customer info found. Continue by defining a new customer.')]</value>
+      <webElementGuid>1fdeb342-d938-44bf-9c11-d646ca1f07e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

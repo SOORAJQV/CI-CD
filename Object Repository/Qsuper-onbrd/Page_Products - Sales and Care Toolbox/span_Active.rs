@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Active</name>
+   <tag></tag>
+   <elementGuidId>319bf412-9bd8-4cb4-b23a-46d598c60a5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w-app-body']/main/section/ui-view/ui-view/sct-subscriptions-and-bundles/div/div/div/div/div/nav/div/a/div/sct-lifecycle-status/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.badge.badge-outline-success.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Qvantel Super Active 358900038080 Owner, Payer&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9703c6ab-3acb-451c-88d1-240b7ea7d3fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>badge,,badge-outline-success,</value>
+      <webElementGuid>ee936128-563e-4c5b-a691-0fda3cb054d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>badge badge-outline-success ng-star-inserted</value>
+      <webElementGuid>553d0fa4-6659-4a6e-bd07-c63f8a3304c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Active
+</value>
+      <webElementGuid>81c6bdcf-3973-4055-b0ab-6de89597442d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w-app-body&quot;)/main[1]/section[1]/ui-view[@class=&quot;ng-star-inserted&quot;]/ui-view[@class=&quot;ng-star-inserted&quot;]/sct-subscriptions-and-bundles[@class=&quot;ng-star-inserted&quot;]/div[1]/div[1]/div[@class=&quot;align-items-stretch row ng-star-inserted&quot;]/div[@class=&quot;col f-col-nav d-none d-xl-block&quot;]/div[1]/nav[@class=&quot;w-nav-vertical&quot;]/div[@class=&quot;w-nav-vertical-group&quot;]/a[@class=&quot;w-nav-vertical-item active ng-star-inserted&quot;]/div[@class=&quot;f-nav-vertical-item--row&quot;]/sct-lifecycle-status[1]/span[@class=&quot;badge badge-outline-success ng-star-inserted&quot;]</value>
+      <webElementGuid>3fb37204-326a-4c42-bf38-ab0f4e2665af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w-app-body']/main/section/ui-view/ui-view/sct-subscriptions-and-bundles/div/div/div/div/div/nav/div/a/div/sct-lifecycle-status/span</value>
+      <webElementGuid>4d8399a9-4d3e-4a96-9ea4-24e6839717d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qvantel Super'])[1]/following::span[1]</value>
+      <webElementGuid>ff3b53f6-bae9-4242-a6d1-96ef8b3fc450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriptions'])[1]/following::span[4]</value>
+      <webElementGuid>bfcb5cc5-facc-4aff-b7f2-111bb0b742d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner, Payer'])[1]/preceding::span[4]</value>
+      <webElementGuid>511094d2-e96e-4323-be83-252b73407166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qvantel Super'])[2]/preceding::span[5]</value>
+      <webElementGuid>22eeedd2-3bdb-4347-b135-f84ff5df6250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Active']/parent::*</value>
+      <webElementGuid>c62f90f7-e6be-4367-bb26-53306d6cd69c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sct-lifecycle-status/span</value>
+      <webElementGuid>52084e49-eb23-4aab-a927-ab54ffb89100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Active
+' or . = ' Active
+')]</value>
+      <webElementGuid>854cf58c-bef0-4a70-9568-9642c930fce0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

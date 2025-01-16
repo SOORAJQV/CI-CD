@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_99,949 sms</name>
+   <tag></tag>
+   <elementGuidId>95b97f4a-ce01-4cd1-935b-06ec48610797</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='subscriptionContent']/sct-dynamic-component-renderer[4]/sct-allowances/section/div/div/div[3]/div[2]/div/span/span/sct-balance-value/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;99,949 sms&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1a51bc85-e034-4e56-a03a-4705828380a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>d-inline-block</value>
+      <webElementGuid>a0a2d0e6-549c-46f9-a257-b06380d00719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-inline-block ng-star-inserted</value>
+      <webElementGuid>f20be9f0-fb38-413d-9496-2422f99e42ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 99,949 sms </value>
+      <webElementGuid>b22d188f-005e-4949-9967-9764e5eb6cad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;subscriptionContent&quot;)/sct-dynamic-component-renderer[@class=&quot;ng-star-inserted&quot;]/sct-allowances[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;overview allowances w-box&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;w-tile-group ng-star-inserted&quot;]/div[@class=&quot;w-tile w-tile-block w-tile-success ng-star-inserted&quot;]/div[@class=&quot;w-tile-body&quot;]/div[@class=&quot;d-inline-block&quot;]/span[@class=&quot;mr-1 text-muted ng-star-inserted&quot;]/span[@class=&quot;text-success text-nowrap plus-separated-balances&quot;]/sct-balance-value[@class=&quot;d-inline-block ng-star-inserted&quot;]/span[@class=&quot;d-inline-block ng-star-inserted&quot;]</value>
+      <webElementGuid>6a4a6552-97b7-45dd-b5f2-891fcad4a0a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='subscriptionContent']/sct-dynamic-component-renderer[4]/sct-allowances/section/div/div/div[3]/div[2]/div/span/span/sct-balance-value/span</value>
+      <webElementGuid>9a6ced22-6b9e-46e0-bb3a-e8ac378df823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SMS messages'])[1]/following::span[3]</value>
+      <webElementGuid>61ac86d2-4fb2-4622-b395-c6f79c58fb17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SMS messages'])[2]/preceding::span[1]</value>
+      <webElementGuid>dcce643b-193b-4fe0-a12b-94cce835b196</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[3]/preceding::span[4]</value>
+      <webElementGuid>d6dc77e5-0613-4b53-9be1-3bca4dd927e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='99,949 sms']/parent::*</value>
+      <webElementGuid>379efa16-2b6a-40c8-9cbd-6490a22e4ca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/span/span/sct-balance-value/span</value>
+      <webElementGuid>70bf78fe-7100-4f98-8fdf-003f6f15b418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 99,949 sms ' or . = ' 99,949 sms ')]</value>
+      <webElementGuid>3c29a2bc-0df8-4deb-bc0e-d6697d00e640</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

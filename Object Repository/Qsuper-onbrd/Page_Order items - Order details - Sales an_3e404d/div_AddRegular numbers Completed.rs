@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AddRegular numbers Completed</name>
+   <tag></tag>
+   <elementGuidId>0e1063f9-8ffb-455f-a16f-029e5ad197de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cell-details-ef5e0d34-08ca-4c2c-92e7-3723370214fe-line-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[2]/following::div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;AddRegular numbers Completed&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fde877b4-c281-4c0c-b2b0-11cba0d989dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c255-54</value>
+      <webElementGuid>a6f79e68-08d6-4902-a211-b246799658d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cell-details-ef5e0d34-08ca-4c2c-92e7-3723370214fe-line-0</value>
+      <webElementGuid>15aed6c9-13dc-45ab-b583-56e31e0fd32a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AddRegular numbers Completed
+</value>
+      <webElementGuid>58360a42-50aa-4b10-ba08-06e227cb9a3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cell-details-ef5e0d34-08ca-4c2c-92e7-3723370214fe-line-0&quot;)</value>
+      <webElementGuid>929e3bfa-20d0-43c2-9de6-d14920250cdb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='cell-details-ef5e0d34-08ca-4c2c-92e7-3723370214fe-line-0']</value>
+      <webElementGuid>a81ab222-a688-4c94-a317-392206fbe64f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='ef5e0d34-08ca-4c2c-92e7-3723370214fe']/td/div/div/div</value>
+      <webElementGuid>4ac82e6e-97f4-40e5-a84b-cdf713d6516f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[2]/following::div[3]</value>
+      <webElementGuid>078e5169-042b-4108-a23a-ee534019989a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qvantel Postpaid Subscription'])[1]/following::div[3]</value>
+      <webElementGuid>84573e3d-35cf-46fa-b53b-814ea20f6198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody[2]/tr/td/div/div/div</value>
+      <webElementGuid>2884eaf3-8f77-4d57-b081-823cc791a463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'cell-details-ef5e0d34-08ca-4c2c-92e7-3723370214fe-line-0' and (text() = 'AddRegular numbers Completed
+' or . = 'AddRegular numbers Completed
+')]</value>
+      <webElementGuid>e1bb1066-916e-43c3-99d0-1787b76b5ffd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

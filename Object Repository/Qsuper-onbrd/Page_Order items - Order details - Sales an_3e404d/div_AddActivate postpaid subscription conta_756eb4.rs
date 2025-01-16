@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AddActivate postpaid subscription conta_756eb4</name>
+   <tag></tag>
+   <elementGuidId>002badd3-4e8a-4e65-956c-5485319bc2ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cell-details-a5a85fb9-43b0-4d99-a435-542f907de1e7-line-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;AddActivate postpaid subscription container Completed&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>987a0118-c363-4fa6-9ae5-7304b4261a3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c255-54</value>
+      <webElementGuid>a239efc0-956e-4616-be6c-51d61f169397</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cell-details-a5a85fb9-43b0-4d99-a435-542f907de1e7-line-0</value>
+      <webElementGuid>0605e63a-95d2-4a7f-a5b9-1c55271e0f0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AddActivate postpaid subscription container Completed
+</value>
+      <webElementGuid>809ec433-b957-4a0c-a897-25f4209c2d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cell-details-a5a85fb9-43b0-4d99-a435-542f907de1e7-line-0&quot;)</value>
+      <webElementGuid>b79a4913-27e7-4628-bb1d-a5b959d50fab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='cell-details-a5a85fb9-43b0-4d99-a435-542f907de1e7-line-0']</value>
+      <webElementGuid>116a11fb-985f-45b5-a94d-ba3e1744e20a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='a5a85fb9-43b0-4d99-a435-542f907de1e7']/td/div/div/div</value>
+      <webElementGuid>b603f1a4-e2d5-42d4-a83c-79674fb907b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::div[3]</value>
+      <webElementGuid>d34e2036-6704-4214-9ab8-fd2945e4c65b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody[5]/tr/td/div/div/div</value>
+      <webElementGuid>46113673-ad39-4318-96f4-275ea849f7e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'cell-details-a5a85fb9-43b0-4d99-a435-542f907de1e7-line-0' and (text() = 'AddActivate postpaid subscription container Completed
+' or . = 'AddActivate postpaid subscription container Completed
+')]</value>
+      <webElementGuid>6a6d12de-a977-4508-94cf-0784909f343b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

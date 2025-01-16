@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Logout_fa-arrow-left fas mr-1 ng-tns-c262-18</name>
+   <tag></tag>
+   <elementGuidId>fd6ac52a-6a50-44dc-a2b1-ccc87ef9bcf1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w-app']/sct-context-customer/div/nav/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa-arrow-left.fas.mr-1.ng-tns-c262-18</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Active session (pradise 999)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>460efab1-dba9-434c-a432-1893f4683ce9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-arrow-left fas mr-1 ng-tns-c262-18</value>
+      <webElementGuid>82214a85-b8f4-4f6d-8451-f8b6252ea85b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w-app&quot;)/sct-context-customer[@class=&quot;ng-tns-c262-18 ng-star-inserted&quot;]/div[@class=&quot;f-context--wrapper ng-tns-c262-18 ng-star-inserted&quot;]/nav[@class=&quot;w-nav-context f-nav-context--prepend f-nav-context--active-context-in-bg ng-tns-c262-18 ng-star-inserted&quot;]/a[@class=&quot;mx-3 ng-tns-c262-18&quot;]/i[@class=&quot;fa-arrow-left fas mr-1 ng-tns-c262-18&quot;]</value>
+      <webElementGuid>97c8627f-d4a6-4da7-b1aa-9bfb519915b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w-app']/sct-context-customer/div/nav/a/i</value>
+      <webElementGuid>aeffbcca-1bbc-473a-868b-f43a03b0b2b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/a/i</value>
+      <webElementGuid>7e85f28c-8771-4a37-95c3-974a1dd9e9d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

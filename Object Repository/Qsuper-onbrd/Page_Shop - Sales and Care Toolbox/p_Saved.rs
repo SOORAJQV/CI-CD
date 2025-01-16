@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Saved</name>
+   <tag></tag>
+   <elementGuidId>11afe0f2-484b-44da-bdf3-0a73c41d5a5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.mb-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Select new sim and msisdn'])[1]/following::p[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>sct-flex-wizard-component-renderer >> internal:has-text=&quot;Select new sim and msisdn Saved!&quot;i >> internal:role=paragraph</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>089d476b-20c3-4c34-8326-cde532f9da79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-0</value>
+      <webElementGuid>23ee0194-0e66-4564-803d-2bc989091c4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saved!</value>
+      <webElementGuid>3470b0fa-43c3-4cfd-bc53-fac6c3fd8b29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;528d9af8-0384-4d14-b451-e8480d95715f&quot;)/div[@class=&quot;alert-container&quot;]/div[@class=&quot;alert alert-success mb-0 ng-star-inserted&quot;]/div[@class=&quot;alert-body&quot;]/div[@class=&quot;alert-body-content&quot;]/p[@class=&quot;mb-0&quot;]</value>
+      <webElementGuid>f7eaef21-51b6-4722-a93f-e08c11516e30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//sct-form-dd-alert[@id='528d9af8-0384-4d14-b451-e8480d95715f']/div/div/div/div/p</value>
+      <webElementGuid>97ae2ed1-56e3-4895-bad4-d5c103d93b4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select new sim and msisdn'])[1]/following::p[1]</value>
+      <webElementGuid>6a149daf-51d8-4470-a5d7-fd107277f7ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='These are the details that have been added to the basket'])[1]/following::p[1]</value>
+      <webElementGuid>c50b878e-a090-443a-a706-3aecb95d91b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configure marketing permissions'])[1]/preceding::p[1]</value>
+      <webElementGuid>52cf0f86-2fb7-4af1-a8f8-b528cba704e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select term'])[1]/preceding::p[2]</value>
+      <webElementGuid>af8b9910-8d14-4dd9-bd09-af958c3738bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Saved!']/parent::*</value>
+      <webElementGuid>52542bc3-e6f3-49d6-9083-8171c625042a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>e16e9b22-533b-4f9c-97ca-64c7a85324d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Saved!' or . = 'Saved!')]</value>
+      <webElementGuid>c8ae4dd8-c93c-4347-b7d8-1c46880ca00a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_98000011123_1</name>
+   <tag></tag>
+   <elementGuidId>c51413db-2aec-4c16-bf41-61504d03badc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmation'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>sct-non-empty.ng-tns-c257-19.ng-star-inserted > span.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>sct-identifications >> internal:text=&quot;98000011123&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e1d01034-318c-4b1b-9812-59091b3eca78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>dcf9c5ce-3674-4471-934d-9a2f42d7d57e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>98000011123</value>
+      <webElementGuid>6efa0a20-b6c3-4493-92ce-27622f318d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cell-id-47e8cc89-e4bf-498a-bdd3-e984d10fa246-line-0&quot;)/span[1]/sct-non-empty[@class=&quot;ng-tns-c257-19 ng-star-inserted&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>a089298f-df7b-4946-af4e-886255797b8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cell-id-47e8cc89-e4bf-498a-bdd3-e984d10fa246-line-0']/span/sct-non-empty/span</value>
+      <webElementGuid>c3550de8-6734-4344-b9fa-b789273ef903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmation'])[1]/following::span[2]</value>
+      <webElementGuid>a482be27-2e01-4f68-9f58-652e9f96c8c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Legal Document'])[1]/following::span[2]</value>
+      <webElementGuid>42f00f28-7c4e-496f-84fc-f8df49f7710f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Driving license'])[1]/preceding::span[1]</value>
+      <webElementGuid>4bb22549-57a7-47e8-9051-612c7fc4a676</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cjbjbaasasscvcvcsdsfgh'])[1]/preceding::span[3]</value>
+      <webElementGuid>b41a5558-7d57-4dd4-b72e-7d1aba8283d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sct-identifications/div/sct-table/table/tbody/tr/td/div/div/div/span/sct-non-empty/span</value>
+      <webElementGuid>b3043cc5-bcd7-4b77-92f9-f7dce90faa19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '98000011123' or . = '98000011123')]</value>
+      <webElementGuid>8455a91c-6e27-4a65-b843-669f5e4bb2c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

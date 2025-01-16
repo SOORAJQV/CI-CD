@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_First invoice_fa fa-angle-double-right ng_adfeab</name>
+   <tag></tag>
+   <elementGuidId>e284177f-13fa-4a3c-9644-7925acbea99e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-angle-double-right.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//sct-table-actions-common/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>db37b9d1-c863-4567-8e3d-3d7aafc71ed5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>,fa fa-angle-double-right,</value>
+      <webElementGuid>ce1fa77a-72ed-4073-a826-cca3421d08cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-angle-double-right ng-star-inserted</value>
+      <webElementGuid>1b47069d-92fe-4c7b-8471-da97607da738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1e05047e-abf7-490a-a2b3-2fb1b8b90a0a&quot;)/td[@class=&quot;ng-tns-c257-53 actions f-re-actions text-right ng-star-inserted&quot;]/sct-table-actions-common[@class=&quot;ng-tns-c257-53&quot;]/a[@class=&quot;w-action-link ng-star-inserted&quot;]/i[@class=&quot;fa fa-angle-double-right ng-star-inserted&quot;]</value>
+      <webElementGuid>4dcdbae4-eaf0-418e-9d9c-e3aa2f492d6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='1e05047e-abf7-490a-a2b3-2fb1b8b90a0a']/td[8]/sct-table-actions-common/a/i</value>
+      <webElementGuid>a914910f-011b-40e3-bc61-5a7da5932e45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sct-table-actions-common/a/i</value>
+      <webElementGuid>c84b81f4-d20b-4b68-9919-c856f446af37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

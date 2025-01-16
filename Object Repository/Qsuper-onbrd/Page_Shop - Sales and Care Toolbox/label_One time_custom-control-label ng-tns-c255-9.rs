@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_One time_custom-control-label ng-tns-c255-9</name>
+   <tag></tag>
+   <elementGuidId>e34e6df5-7dd5-43da-9965-a0c54cfdcc60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#65cf23d5-fc7c-428c-be39-44d0443a534a > td.select.ng-tns-c255-9.ng-star-inserted > div.custom-control.custom-radio.custom-control-standalone.ng-tns-c255-9 > label.custom-control-label.ng-tns-c255-9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[2]/tr/td/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot; 12 month Recurring:  9.90 EUR / month  10 % / month One time: 3.90 EUR&quot;i] >> label</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>50aed9e0-c0ed-48fd-9408-02e2887684c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label ng-tns-c255-9</value>
+      <webElementGuid>7eab0702-d0ec-45c7-9ad5-9fd650897394</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>table-radio-65cf23d5-fc7c-428c-be39-44d0443a534a</value>
+      <webElementGuid>9acfe46d-4aed-4eca-941c-87444ccc1e73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;65cf23d5-fc7c-428c-be39-44d0443a534a&quot;)/td[@class=&quot;select ng-tns-c255-9 ng-star-inserted&quot;]/div[@class=&quot;custom-control custom-radio custom-control-standalone ng-tns-c255-9&quot;]/label[@class=&quot;custom-control-label ng-tns-c255-9&quot;]</value>
+      <webElementGuid>5772c0b8-0372-4775-bb4f-9230bb5243c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='65cf23d5-fc7c-428c-be39-44d0443a534a']/td/div/label</value>
+      <webElementGuid>15004364-3cc8-4842-9c6e-205ecea94b60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody[2]/tr/td/div/label</value>
+      <webElementGuid>4aea5172-3ae0-49ff-b22c-4fab0bf90c1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
