@@ -4,14 +4,23 @@
    <name>span_Active session (pradise 999)</name>
    <tag></tag>
    <elementGuidId>22486819-bf34-4e23-b2b1-16839faeaeb0</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.ng-tns-c262-18</value>
+         <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Tom Tamer'])[4]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Active session (pradise 999)' or . = 'Active session (pradise 999)')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-tns-c262-18</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +30,7 @@
          <value>internal:role=link[name=&quot; Active session (pradise 999)&quot;i]</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +38,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>d22ea2b1-276e-421c-99a5-175fc5a92c25</webElementGuid>
+      <webElementGuid>e2c35a79-5b90-4547-a24a-2423189547e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-tns-c262-18</value>
-      <webElementGuid>3ddc97cb-a9e6-4274-9c2d-631bbff62795</webElementGuid>
+      <webElementGuid>3aa64cfc-ac17-4603-8790-8707f418873c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Active session (pradise 999)</value>
-      <webElementGuid>24fb2690-3af4-4111-9d9f-01a9bdb204ee</webElementGuid>
+      <webElementGuid>c7916a1f-2146-48b9-ba81-d5b226eff7e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;w-app&quot;)/sct-context-customer[@class=&quot;ng-tns-c262-18 ng-star-inserted&quot;]/div[@class=&quot;f-context--wrapper ng-tns-c262-18 ng-star-inserted&quot;]/nav[@class=&quot;w-nav-context f-nav-context--prepend f-nav-context--active-context-in-bg ng-tns-c262-18 ng-star-inserted&quot;]/a[@class=&quot;mx-3 ng-tns-c262-18&quot;]/span[@class=&quot;ng-tns-c262-18&quot;]</value>
-      <webElementGuid>6ab27f4c-e04b-45ea-8b8d-f85e45646835</webElementGuid>
+      <webElementGuid>6519d7ba-b7fe-4e8b-a8a9-c6ac37381231</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='w-app']/sct-context-customer/div/nav/a/span</value>
-      <webElementGuid>390194d5-f022-4ead-a74f-c538fa5ad3e4</webElementGuid>
+      <webElementGuid>23284937-d271-45bd-9012-530452ec8749</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[6]/following::span[1]</value>
-      <webElementGuid>92ce0b8a-beb0-4241-99ef-31f31992a0a6</webElementGuid>
+      <webElementGuid>5cfd57bb-1449-4b65-b431-91d793350c29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tom Tamer'])[4]/following::span[1]</value>
-      <webElementGuid>3d842319-221e-45f4-beff-9d01477642da</webElementGuid>
+      <webElementGuid>d17e0374-16b9-48be-890a-a3deee7cbf7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Execute action'])[1]/preceding::span[1]</value>
-      <webElementGuid>764a14bb-f787-43bb-8976-64626e2c4a08</webElementGuid>
+      <webElementGuid>fadddb48-4d5d-403a-9c83-f5498a76cdde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Active session (pradise 999)']/parent::*</value>
-      <webElementGuid>38210e12-b9cb-4ab1-a033-9425e95ec811</webElementGuid>
+      <webElementGuid>db141679-1404-41f4-9cb6-aacf385e9026</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//nav/a/span</value>
-      <webElementGuid>984ef278-bf0e-44c4-b229-16f51615a883</webElementGuid>
+      <webElementGuid>4ac9ffb5-60f8-4b14-97b5-7e11070143c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Active session (pradise 999)' or . = 'Active session (pradise 999)')]</value>
-      <webElementGuid>dd1798ce-4ba2-4cec-8cb2-ddc297db0eb3</webElementGuid>
+      <webElementGuid>43842074-e040-464e-a72d-386c99b35391</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

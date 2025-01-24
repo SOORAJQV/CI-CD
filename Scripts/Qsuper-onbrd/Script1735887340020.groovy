@@ -41,12 +41,14 @@ WebUI.click(findTestObject('Object Repository/Qsuper-onbrd/Page_Dashboard - Sale
 WebUI.verifyElementPresent(findTestObject('Object Repository/Qsuper-onbrd/Page_Shop - Sales and Care Toolbox/nav_PlansPrepaid plansMobile prepaidPostpai_ad7605'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Qsuper-onbrd/Page_Shop - Sales and Care Toolbox/a_Mobile Postpaid'))
+WebUI.click(findTestObject('trial/Page_Shop - Sales and Care Toolbox/a_Mobile Postpaid'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Qsuper-onbrd/Page_Shop - Sales and Care Toolbox/div_Risk assessment (credit check) must be _1cb8bb'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Qsuper-onbrd/Page_Shop - Sales and Care Toolbox/button_Perform risk assessment'))
+WebUI.verifyElementClickable(findTestObject('Qsuper-onbrd/Page_Shop - Sales and Care Toolbox/updated_button_Perform risk assessment'))
+
+WebUI.click(findTestObject('Qsuper-onbrd/Page_Shop - Sales and Care Toolbox/updated_button_Perform risk assessment'))
 
 WebUI.verifyElementVisible(findTestObject('Qsuper-onbrd/Page_Shopidentification window - Sales and Care Toolbox/div_Identification details'), 
     FailureHandling.STOP_ON_FAILURE)

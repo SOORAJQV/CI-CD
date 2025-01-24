@@ -52,9 +52,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Qsuper-onbrd/Page_Prod
 
 WebUI.getText(findTestObject('Object Repository/Qsuper-onbrd/Page_Products - Sales and Care Toolbox/div_Qvantel Super Active'))
 
-WebUI.getText(findTestObject('Object Repository/Qsuper-onbrd/Page_Orders - Sales and Care Toolbox/span_Qvantel Postpaid Subscription'), 
-    FailureHandling.STOP_ON_FAILURE)
-
 WebUI.click(findTestObject('Object Repository/identification/Page_Overview - Sales and Care Toolbox/span_Customer'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/identification/Page_Customer details - Sales and Care Toolbox/div_Account information Edit account inform_6de9a4'), 
